@@ -24,6 +24,7 @@ textarea {
 }
 
 /* typography */
+.jumbotron { background:url(ball.jpg) center no-repeat; background-size: cover;}
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
@@ -42,7 +43,7 @@ h2 {
   margin-bottom: 30px;
   text-align: center;
   font-weight: normal;
-  color: #777;
+  color: #FFF;
 }
 
 p {
